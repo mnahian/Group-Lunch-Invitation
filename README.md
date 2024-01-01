@@ -1,1 +1,1 @@
-# GFT-Collaboration
+# Group-Lunch-Invitation
